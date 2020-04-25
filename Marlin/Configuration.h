@@ -71,7 +71,7 @@
 // @section info
 
 // Author info of this build printed to the host during boot and M115
-#define STRING_CONFIG_H_AUTHOR "Oneginforte_03_2020"    // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "Oneginforte_04_2020"    // Who made the changes.
 //#define STRING_SPLASH_LINE1 "STM32F103RET6" // will be shown during bootup in line 1 SHORT_BUILD_VERSION
 //#define STRING_SPLASH_LINE2 WEBSITE_URL     // will be shown during bootup in line 2
 
